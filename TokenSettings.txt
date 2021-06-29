@@ -1,0 +1,8 @@
+Client ID:
+PKulaMpxCDcyZsxHoLeorxdE
+Client Secret:
+R1KL7l1u,awPgafa0-G3Xjt5QAjk,gTtz.qgmQSrsstUIdQnOoq_jgI,77nPA9upDOOYj2+ZefBMXudz+dFfF7IYPMGo56gz7xD337Nrcaufv3KKh,kzaS,0_xuCflNI
+Token:
+AstraCS:PKulaMpxCDcyZsxHoLeorxdE:88ba8233267a971f4c6793cf88d45e9e8513aa0386dd0727caaeaa18dd5ebd90
+
+
